@@ -31,4 +31,4 @@ Run the project:
 
 streamlit run datacleaning.py
 
-Project completed successfully.
+Project completed succesfully.
